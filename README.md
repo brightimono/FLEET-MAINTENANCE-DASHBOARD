@@ -14,3 +14,21 @@
 | Fleet Maintenance Report.xlsb | Complete Excel workbook containing the dataset, data dictionary, calculations, pivot tables, and dashboard |
 | Dashboard.png | Dashboard preview image |
 | README.md | Project documentation |
+## 🚀 Future Improvements
+
+- Recreate the dashboard in Microsoft Power BI
+- Build an SQL database to store maintenance records
+- Develop predictive maintenance models
+- Automate monthly reporting using Power Query
+- ## 👤 About the Author
+
+**Bright Imono**
+
+Aspiring Data Analyst with an interest in business intelligence, dashboard development, and data-driven decision-making.
+
+- 📊 Excel
+- 📈 Power BI (Learning)
+- 🗄 SQL (Learning)
+- 🐍 Python (Learning)
+
+Feel free to connect and explore my other projects.
