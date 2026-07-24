@@ -1,2 +1,2 @@
 # FLEET-MAINTENANCE-DASHBOARD
-This project presents an interactive Fleet Maintenance Dashboard developed in Microsoft Excel to monitor maintenance operations, evaluate workshop performance, analyze repair trends, and support data-driven decision-making.
+Fleet Maintenance Performance Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, KPIs, and interactive slicers.
