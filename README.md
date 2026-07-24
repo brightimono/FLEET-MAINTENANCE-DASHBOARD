@@ -26,10 +26,15 @@
 
 Data Analyst with an interest in business intelligence, dashboard development, and data-driven decision-making.
 
-- 📊 Excel
-- 📈 Power BI (Learning)
-- 🗄 SQL (Learning)
-- 🐍 Python (Learning)
+📊 Data Analyst
+
+🚚 Fleet Analytics
+
+📈 Excel | Power BI | SQL | Python
+
+📂 Featured Projects
+
+🏆 Certifications
 
 Feel free to connect and explore my other projects.
 
