@@ -24,7 +24,7 @@
 
 **Bright Imono**
 
-Aspiring Data Analyst with an interest in business intelligence, dashboard development, and data-driven decision-making.
+Data Analyst with an interest in business intelligence, dashboard development, and data-driven decision-making.
 
 - 📊 Excel
 - 📈 Power BI (Learning)
@@ -32,3 +32,22 @@ Aspiring Data Analyst with an interest in business intelligence, dashboard devel
 - 🐍 Python (Learning)
 
 Feel free to connect and explore my other projects.
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Business Analysis
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data Storytelling
+
+## 📌 Project Summary
+
+This project demonstrates how Microsoft Excel can be used to transform raw maintenance data into actionable business insights through interactive dashboards, KPI tracking, and visual analytics.
+
+The dashboard supports operational decision-making by enabling stakeholders to monitor maintenance performance, identify recurring issues, evaluate workshop efficiency, and optimize maintenance planning.
